@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @audran-gouis
+- 🟠 I’m interested in Bitcoin and self-sovereign identity.
+- 📖 I’m currently learning Rust, to be able to contribute to the previously mentionned ecosystems. 
+- ⚒️ I’m looking to collaborate on user friendly solutions to make users sovereign over their own data. 
+- 📫 How to reach me : audran.gouis@gmail.com
+- 😄 Pronouns: He / Him
+- ⚡ Fun Fact: Pending ... 
